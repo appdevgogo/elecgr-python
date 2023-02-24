@@ -1,0 +1,12 @@
+/0_config/
+/*/.idea
+/*/venv/
+/*/storage
+/*/aws_sm.txt
+/*/config_210801_001.ini
+/*/evspot_config_220808.ini
+/*/localdb.db
+/*/localdb_raw.db
+/*/201023_법정동코드 전체자료.txt
+/*/220129_법정동코드 전체자료.txt
+
